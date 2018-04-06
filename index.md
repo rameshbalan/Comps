@@ -7,7 +7,6 @@
   <source src="Sex_Chromosomes_Evolution.mp4" type="video/mp4" class='center'>
   Your browser does not support the video tag.
 </video>
-<p>This script that generates this animation is available <a href="https://rameshbalan.github.io/comps/Source_FIle/Sex_Chromosome_Evolution.py">here</a>.
-</p>
+Script for the animation is available [here](https://rameshbalan.github.io/comps/Source_FIle/Sex_Chromosome_Evolution.py)
 </body>
 </html>
